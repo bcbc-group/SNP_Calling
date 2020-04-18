@@ -1,7 +1,7 @@
 #!/bin/sh
 
 ###################################################################
-# pipeline for running snp-calling pipeline on re-sequencing data
+# pipeline for running snp calling on re-sequencing data
 #
 # usage:  snpcalling_pipeline_gatk_script_2018.sh $basedir $num_of_processors
 #
