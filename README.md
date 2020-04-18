@@ -1,2 +1,2 @@
 # SNP_Calling
-Repo for Scripts
+Repo for scripts used to call SNPs
